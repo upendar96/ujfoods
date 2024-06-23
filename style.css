@@ -1,0 +1,24 @@
+.main1{
+  background-image:url("https://tint.creativemarket.com/0G9Xhtk9M4amGEKZIX5mjh1dFUD1-xAtLhY_x6HNU0w/width:1820/height:1213/gravity:nowe/rt:fill-down/el:1/preset:cm_watermark_retina/czM6Ly9maWxlcy5jcmVhdGl2ZW1hcmtldC5jb20vaW1hZ2VzL3NjcmVlbnNob3RzL3Byb2R1Y3RzLzczNS83MzU4LzczNTg3MDYvcjRlamNkZGx6cnpweWZqZG91aG5ua2ZnZmpyanV5NHh5aGhjbmt1eHQzbTZyaDA1bjRmbmpxbGY5MnF3ZHBrbi1vLmpwZw");
+  width:100%;
+  height: 400px;
+  background-size: 100%;
+  background-position:center;
+  position: relative;
+}
+h2{
+  color: aliceblue;
+  text-align: center;
+  text-size:550px;
+  text-shadow: darkslategrey;
+}
+label{
+  color: aliceblue;
+  text-size-adjust:10px;
+}
+button{
+
+}
+span{
+  color: aliceblue;
+}
